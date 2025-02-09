@@ -68,11 +68,8 @@ Favorite and Bookmark System
 Social Media Sharing:
 10. "As a social media user, I want to share a cat’s profile on platforms like Instagram and Twitter so that others can see it."
 
-
-
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 
