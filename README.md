@@ -11,9 +11,6 @@ Individuals who experience emotional distress or loneliness and find solace in p
 Juno Cheung: @avacheungx
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 #### Omar Khan:
 "I like interacting with cats in local NYC bodegas, but am
 facing issues reliably identifying which bodegas actually contain bodega
