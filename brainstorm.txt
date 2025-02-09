@@ -1,0 +1,52 @@
+Ideation:
+Problem --> People are depressed and want to pet a fluffy friendly 
+bodega cat in the closet distance as possible.
+
+Demographic --> Sad Humans who like to pet cats without the responsibility of 
+owning one.
+
+StakeHolder Interview:
+Omar Khan: "I like interacting with cats in local NYC bodegas, but am
+facing issues reliably identifying which delis actually contain deli
+cats within their hallowed walls.
+
+As a stakeholder in the Bodega Cat Identifier project, I'm hoping the
+solution will allow me to efficiently be able to seek out the location
+of feline friend-containing convenience stores in order for me to 
+quickly path my way to meeting more cute cats.
+
+An expected outcome of this project for me will include my being able to
+use the tool to identify which delis have cats in them, with a stretch
+goal being the identification of which cats populate each respective deli
+ahead of time."
+
+4 Goals:
+1. Locate  nearby bodega cat
+2. Support local busnesses 
+3. knowing in advance the number of cats per store
+4. knowing in advance the personality/ petability of each cat
+
+4 Problems/Frustrations:
+1. Not knowing which bodegas contain cats
+2. Not knowing if the cats are friendly/pettable
+3. Not knowing if the cats are hypoallergenic
+4. Not knowing breed and appearance of the cats
+
+
+Product Vision Statement:
+"A mobile app that will locate and identify nearby bodega cats for cat loving nyc 
+residents by providing the distnace and identiy pages of each cat in the vicinity"
+
+User Requirements:
+1. "As a cat loving New York City resident, I want to be able to locate and identify nearby 
+bodega cats so that I can conviently and efficiently find and pet them at ease."
+2. 
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
