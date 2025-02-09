@@ -45,18 +45,18 @@ ahead of time."
 ## User Requirements
 
 ### Search and Browse: 
-1. "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them"
+1. "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
 
 ### User-Submitted Entries: 
 2. "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
-3."As a bodega owner, I want to claim a cat’s profile and add information so that customers can learn more about our shop’s feline resident."
+3. "As a bodega owner, I want to claim a cat’s profile and add information so that customers can learn more about our shop’s feline resident."
 
 ### User Reviews and Ratings: 
-4. " As a bodega cat fan, I want to leave reviews about my experiences with a cat so that others know what to expect."
+4. "As a bodega cat fan, I want to leave reviews about my experiences with a cat so that others know what to expect."
 5. "As a curious user, I want to read reviews about a bodega cat before visiting so that I know if they are friendly."
 
 ### Map Integration:
-6. "As a city explorer, I want to see a map of bodegas with cats so that I can find one near me"
+6. "As a city explorer, I want to see a map of bodegas with cats so that I can find one near me."
 
 ### Filtering and Sorting:
 7. "As a cat lover, I want to filter bodegas by borough so that I can find locations close to me."
