@@ -11,7 +11,7 @@ Individuals who experience emotional distress or loneliness and find solace in p
 Juno Cheung: @avacheungx
 
 ## Stakeholders
-#### Omar Khan:
+### Omar Khan:
 "I like interacting with cats in local NYC bodegas, but am
 facing issues reliably identifying which bodegas actually contain bodega
 cats within their hallowed walls.
