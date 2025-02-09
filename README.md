@@ -24,7 +24,7 @@ quickly path my way to meeting more cute cats.
 An expected outcome of this project for me will include my being able to
 use the tool to identify which delis have cats in them, with a stretch
 goal being the identification of which cats populate each respective bodega
-ahead of time.
+ahead of time. "
 
 ### Goals:
 1. Enable users to locate nearby bodegas with resident cats efficiently.
