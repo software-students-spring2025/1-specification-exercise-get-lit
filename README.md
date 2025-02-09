@@ -69,6 +69,10 @@ ahead of time."
 10. "As a social media user, I want to share a cat’s profile on platforms like Instagram and Twitter so that others can see it."
 
 ## Activity Diagrams
+1. "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
+
+
+2. "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
 
 
 ## Clickable Prototype
