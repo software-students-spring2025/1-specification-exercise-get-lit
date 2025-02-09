@@ -99,5 +99,3 @@ ahead of time."
 
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
