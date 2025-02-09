@@ -69,10 +69,33 @@ ahead of time."
 10. "As a social media user, I want to share a cat’s profile on platforms like Instagram and Twitter so that others can see it."
 
 ## Activity Diagrams
-1. "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
+#### "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
 
+![search_bodega_cats](https://github.com/user-attachments/assets/6c54ac98-acdb-4b06-9c33-408441d51d61)
 
-2. "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
+#### "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
+
+![view_cat_profile](https://github.com/user-attachments/assets/2dd4bb21-8684-40db-bddd-781237841af9)
+
+## Wireframe Diagrams
+
+#### Home
+![wireframe_home](https://github.com/user-attachments/assets/180ccf08-330a-44eb-be54-c440543d5a78)
+
+#### Search Results
+![wireframe_search_results](https://github.com/user-attachments/assets/6e83275b-651b-4fc6-ab6c-5a30b55b0a12)
+
+#### Cat Profile
+![wireframe_cat_profile](https://github.com/user-attachments/assets/340ebac4-f618-495a-8bf8-0bea44010c31)
+
+#### Bodega Profile
+![wireframe_bodega_details](https://github.com/user-attachments/assets/bd5ab5ed-f160-4ac1-9c8c-024a6a53cd8e)
+
+#### Reviews
+![wireframe_reviews](https://github.com/user-attachments/assets/ca7b55a2-4132-46cb-8ab7-539d907f3cf8)
+
+#### Favorites
+![wireframe_favorites](https://github.com/user-attachments/assets/3b469bd9-b08d-42dc-aa76-d427b22a508f)
 
 
 ## Clickable Prototype
