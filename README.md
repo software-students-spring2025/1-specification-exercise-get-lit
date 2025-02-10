@@ -62,7 +62,7 @@ ahead of time."
 
 ### Filtering and Sorting:
 7. "As a cat lover, I want to filter bodegas by borough so that I can find locations close to me."
-8. "As a frequent user, I want to sort cats by most recently added so that I can see new entries."
+8. "As a frequent user, I want to sort cats by most recently viewed cats."
 
 ### Favorite and Bookmark System
 9. "As a frequent user, I want to save my favorite bodega cats so that I can revisit their profiles easily."
