@@ -9,6 +9,8 @@ Individuals who experience emotional distress or loneliness and find solace in p
 ## Team members
 
 Juno Cheung: @avacheungx
+Andrew Jung: @andrewjung03
+Clarissa Choi: @clammy424
 
 ## Stakeholders
 ### Omar Khan:
@@ -71,11 +73,11 @@ ahead of time."
 ## Activity Diagrams
 #### "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
 
-![search_bodega_cats](https://github.com/user-attachments/assets/6c54ac98-acdb-4b06-9c33-408441d51d61)
+![search_bodega_cats](activity/activity1.png)
 
 #### "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
 
-![view_cat_profile](https://github.com/user-attachments/assets/2dd4bb21-8684-40db-bddd-781237841af9)
+![view_cat_profile](activity/activity2.png)
 
 ## Wireframe Diagrams
 
