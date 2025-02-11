@@ -77,7 +77,7 @@ ahead of time."
 
 #### "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
 
-![view_cat_profile](activity/activity_2.png)
+![view_cat_profile](activity/activity2.png)
 
 ## Wireframe Diagrams
 
