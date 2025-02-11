@@ -8,10 +8,10 @@ Individuals who experience emotional distress or loneliness and find solace in p
 
 ## Team members
 
-Juno Cheung: @avacheungx
-Andrew Jung: @andrewjung03
-Clarissa Choi: @clammy424
-Krish Kothari: @krish-nyu
+* Juno Cheung: @avacheungx
+* Andrew Jung: @andrewjung03
+* Clarissa Choi: @clammy424
+* Krish Kothari: @krish-nyu
 
 ## Stakeholders
 ### Omar Khan:
@@ -81,3 +81,4 @@ ahead of time."
 ![view_cat_profile](activity/image2.png)
 
 ## Clickable Prototype
+[Link to Clickable Prototype] (https://www.figma.com/proto/PZdBp7qknipjfRCPz7Qggv/get-lit?node-id=0-1&t=vFux9Iypj1K8ON3K-1)
