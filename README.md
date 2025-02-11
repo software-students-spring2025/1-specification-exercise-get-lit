@@ -48,7 +48,7 @@ ahead of time."
 ## User Requirements
 
 ### Search and Browse: 
-1. "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
+1. "As a cat enthusiast, I want to find bodegas with cats so that I can visit them."
 
 ### User-Submitted Entries: 
 2. "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
@@ -74,7 +74,7 @@ ahead of time."
 ## Activity Diagrams
 #### "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
 
-![search_bodega_cats](activity/activity1.png)
+![search_bodega_cats](activity/activity_1.png)
 
 #### "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
 
