@@ -80,25 +80,4 @@ ahead of time."
 
 ![view_cat_profile](activity/activity2.png)
 
-## Wireframe Diagrams
-
-#### Home
-![wireframe_home](https://github.com/user-attachments/assets/180ccf08-330a-44eb-be54-c440543d5a78)
-
-#### Search Results
-![wireframe_search_results](https://github.com/user-attachments/assets/6e83275b-651b-4fc6-ab6c-5a30b55b0a12)
-
-#### Cat Profile
-![wireframe_cat_profile](https://github.com/user-attachments/assets/340ebac4-f618-495a-8bf8-0bea44010c31)
-
-#### Bodega Profile
-![wireframe_bodega_details](https://github.com/user-attachments/assets/bd5ab5ed-f160-4ac1-9c8c-024a6a53cd8e)
-
-#### Reviews
-![wireframe_reviews](https://github.com/user-attachments/assets/ca7b55a2-4132-46cb-8ab7-539d907f3cf8)
-
-#### Favorites
-![wireframe_favorites](https://github.com/user-attachments/assets/3b469bd9-b08d-42dc-aa76-d427b22a508f)
-
-
 ## Clickable Prototype
