@@ -11,6 +11,7 @@ Individuals who experience emotional distress or loneliness and find solace in p
 Juno Cheung: @avacheungx
 Andrew Jung: @andrewjung03
 Clarissa Choi: @clammy424
+Krish Kothari: @krish-nyu
 
 ## Stakeholders
 ### Omar Khan:
