@@ -74,9 +74,9 @@ ahead of time."
 ## Activity Diagrams
 #### "As a cat enthusiast, I want to search for bodegas with cats based on location so that I can visit them."
 
-![search_bodega_cats](activity/activity_1.png)
+![search_bodega_cats](activity/image1.png)
 
-#### "As a user, I want to view a detailed profile for each bodega cat so that I can learn about its personality and history."
+#### "As a bodega owner, I want to claim a cat’s profile and add information so that customers can learn more about our shop’s feline resident."
 
 ![view_cat_profile](activity/activity2.png)
 
