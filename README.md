@@ -76,8 +76,8 @@ ahead of time."
 
 ![search_bodega_cats](activity/image_1.png)
 
-#### "As a bodega owner, I want to claim a cat’s profile and add information so that customers can learn more about our shop’s feline resident."
+#### "As a bodega cat fan, I want to leave reviews about my experiences with a cat so that others know what to expect."
 
-![view_cat_profile](activity/activity2.png)
+![view_cat_profile](activity/image2.png)
 
 ## Clickable Prototype
