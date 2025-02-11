@@ -81,4 +81,4 @@ ahead of time."
 ![view_cat_profile](activity/image2.png)
 
 ## Clickable Prototype
-[Link to Clickable Prototype] (https://www.figma.com/proto/PZdBp7qknipjfRCPz7Qggv/get-lit?node-id=0-1&t=vFux9Iypj1K8ON3K-1)
+[Link to Clickable Prototype](https://www.figma.com/proto/PZdBp7qknipjfRCPz7Qggv/get-lit?node-id=0-1&t=vFux9Iypj1K8ON3K-1)
